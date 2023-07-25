@@ -1,12 +1,28 @@
-# Hey there! Welcome to my profile 🖐️
+<h1>Hey, I'm Leo! <br/>
 
-<div>
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=imleocarvalho&show_icons=true&theme=tokyonight" />
+<h2>Projects:</h2>
 
-  <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <br><br>
-  <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <br><br>
-  <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <br><br>
-  <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+- <b>Python</b>
+  - [Predict Earnings using Multivariable Regression](https://github.com/)
+  - [Web Automation](https://github.com/)
+  - [Convert PDF to Audiobook](https://github.com/)
+  - [Custom API Based Website](https://github.com/)
+  - [Machine Learning Project](https://github.com/)
+- <b>Web Development</b>
+  - [Custom WebSite](https://github.com/)
+  - [Custom WebSite](https://github.com/)
+- <b>Java</b>
+  - [Custom Java Project](https://github.com/)
+  - [Custom Java Project](https://github.com/)
+  - [Custom Java Project](https://github.com/)
+- <b>Cloud Computing</b>
+  - [Custom Java Project](https://github.com/)
+  - [Custom Java Project](https://github.com/)
 
+<h2>Connect with me:</h2>
 
+[<img align="left" alt="imleocarvalho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="imleocarvalho | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/imleocarvalho/
+[linkedin]: https://linkedin.com/in/imleocarvalho
