@@ -1,5 +1,3 @@
-<h1>Hey, I'm Leo! <br/>
-
 <h2>Projects:</h2>
 
 - <b>Python</b>
@@ -19,7 +17,7 @@
   - [Custom Java Project](https://github.com/)
   - [Custom Java Project](https://github.com/)
 
-<h2>Connect with me:</h2>
+<h2></h2>
 
 [<img align="left" alt="imleocarvalho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="imleocarvalho | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
