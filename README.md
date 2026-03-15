@@ -17,29 +17,12 @@ Software Engineer at [Travelex Bank](https://www.linkedin.com/company/grupo-trav
 
 ## Technologies
 
-<div>
-    [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,bash)](https://skillicons.dev)
-</div>
 
-<div>
-    <img src="https://img.shields.io/badge/Editor-Neovim-darkblue?style=for-the-badge&logo=Neovim">
-    <img src="https://img.shields.io/badge/Editor-VSCode-darkblue?style=for-the-badge&logo=Visual%20Studio%20Code">
-</div>
+[![Linux](https://skillicons.dev/icons?i=linux,docker,kubernetes,bash&theme=light)](https://skillicons.dev)
 
-<div>
-    <img src="https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=Go">
-    <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=Python&logoColor=orange">
-    <img src="https://img.shields.io/badge/Code-Bash-blue?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-</div>
+[![Languages](https://skillicons.dev/icons?i=go,python,java,html,css,js&theme=light)](https://skillicons.dev)
 
-<div>
-    <img src="https://img.shields.io/badge/Database-MySQL-lightblue?style=for-the-badge&logo=MySQL&logoColor=white">
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=Git&logoColor=white">
-</div>
+[![Others](https://skillicons.dev/icons?i=aws,git,azure,jenkins,grafana&theme=light)](https://skillicons.dev)
 
 ## Main Projects
 
