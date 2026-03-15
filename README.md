@@ -18,11 +18,11 @@ Software Engineer at [Travelex Bank](https://www.linkedin.com/company/grupo-trav
 ## Technologies
 
 
-[![Linux](https://skillicons.dev/icons?i=linux,docker,kubernetes,bash&theme=light)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux,docker,kubernetes,bash)](https://skillicons.dev)
 
-[![Languages](https://skillicons.dev/icons?i=go,python,java,html,css,js&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=go,python,java,html,css,js)](https://skillicons.dev)
 
-[![Others](https://skillicons.dev/icons?i=aws,git,azure,jenkins,grafana&theme=light)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=aws,git,azure,jenkins,grafana)](https://skillicons.dev)
 
 ## Main Projects
 
